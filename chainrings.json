@@ -1,0 +1,84 @@
+[
+  {
+    "source": 2,
+    "chainrings": [
+      36,
+      46
+    ]
+      ,
+    "name": "SRAM RED Crankset 36-46",
+    "chainring-type": "cyclocross"
+    },
+  {
+    "source": 2,
+    "chainrings": [34, 50],
+    "name": "SRAM RED Crankset 34-50",
+    "chainring-type": "compact"
+  },
+  {
+    "source": 2,
+    "chainrings": [36, 52],
+    "name": "SRAM RED Crankset 36-46",
+    "chainring-type": "mid-compact"
+  },
+  {
+    "source": 2,
+    "chainrings": [39, 53],
+    "name": "SRAM RED Crankset 36-46",
+    "chainring-type": "compact"
+  },
+  {
+    "source": 5,
+    "chainrings": [38],
+    "name": "SRAM Force 1 Crankset 38",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [40],
+    "name": "SRAM Force 1 Crankset 40",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [42],
+    "name": "SRAM Force 1 Crankset 42",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [44],
+    "name": "SRAM Force 1 Crankset 44",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [46],
+    "name": "SRAM Force 1 Crankset 46",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [48],
+    "name": "SRAM Force 1 Crankset 48",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [50],
+    "name": "SRAM Force 1 Crankset 50",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [52],
+    "name": "SRAM Force 1 Crankset 52",
+    "chainring-type": "single"
+  },
+  {
+    "source": 5,
+    "chainrings": [54],
+    "name": "SRAM Force 1 Crankset 54",
+    "chainring-type": "single"
+  },
+]
